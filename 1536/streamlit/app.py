@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import geopandas
-import geopandas
 from shapely.geometry import Polygon
 
 
